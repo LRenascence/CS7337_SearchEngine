@@ -1,0 +1,135 @@
+Domain URL: https://s2.smu.edu/~fmoore/
+Total number of words: 949
+-------------------------
+Crawled URL: 
+https://s2.smu.edu/~fmoore/textfiles/cow3.txt
+https://s2.smu.edu/~fmoore/textfiles/cow2.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball5.txt
+https://s2.smu.edu/~fmoore/textfiles/football5.txt
+https://s2.smu.edu/~fmoore/textfiles/golf3.txt
+https://s2.smu.edu/~fmoore/index.htm
+https://s2.smu.edu/~fmoore/textfiles/baseball5.txt
+https://s2.smu.edu/~fmoore/textfiles/golf1.txt
+https://s2.smu.edu/~fmoore/misc/levenshtein.html
+https://s2.smu.edu/~fmoore/textfiles/football2.txt
+https://s2.smu.edu/~fmoore/misc/count_letters.txt
+https://s2.smu.edu/~fmoore/misc/vb_byte.c.txt
+https://s2.smu.edu/~fmoore/textfiles/golf2.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball1.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball3.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball1.txt
+https://s2.smu.edu/~fmoore/textfiles/golf5.txt
+https://s2.smu.edu/~fmoore/textfiles/golf4.txt
+https://s2.smu.edu/~fmoore/textfiles/cow1.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball4.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball2.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball4.txt
+https://s2.smu.edu/~fmoore/textfiles/football4.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball2.txt
+https://s2.smu.edu/~fmoore/textfiles/football1.txt
+https://s2.smu.edu/~fmoore/textfiles/index.html
+https://s2.smu.edu/~fmoore/textfiles/basketball3.txt
+https://s2.smu.edu/~fmoore/schedule.htm
+https://s2.smu.edu/~fmoore/textfiles/cow4.txt
+https://s2.smu.edu/~fmoore/textfiles/football3.txt
+-------------------------
+Duplicate URL: 
+https://s2.smu.edu/~fmoore/misc/count_letters_duplicate.txt
+-------------------------
+Broken URL: 
+https://s2.smu.edu/~fmoore/does_not_exist.htm
+https://s2.smu.edu/~fmoore/mailto:fmoore@lyle.smu.edu
+https://s2.smu.edu/~fmoore/index_duplicate.htm
+-------------------------
+Out of domain URL: 
+http://lyle.smu.edu
+http://www.gedpage.com/soundex.html
+http://www.smu.edu/EnrollmentServices/Registrar/Enrollment/FinalExamSchedule/Spring2020
+-------------------------
+Invalid URL: 
+https://s2.smu.edu/~fmoore/misc/noindex.html
+https://s2.smu.edu/~fmoore/dontgohere/badfile1.html
+-------------------------
+Non text URL: 
+https://s2.smu.edu/~fmoore/misc/eg-brown-cow.xlsx
+https://s2.smu.edu/~fmoore/misc/word-morphing-puzzle.pdf
+https://s2.smu.edu/~fmoore/misc/mercator-article.pdf
+https://s2.smu.edu/~fmoore/misc/letter_distribution.pptx
+https://s2.smu.edu/~fmoore/misc/eg-figure6-12.xlsx
+https://s2.smu.edu/~fmoore/CS7337_syllabus.pdf
+https://s2.smu.edu/~fmoore/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf
+https://s2.smu.edu/~fmoore/misc/eg-little-lamb.xlsx
+https://s2.smu.edu/~fmoore/CS5337_syllabus.pdf
+https://s2.smu.edu/~fmoore/misc/IEEE-reimagining-search-june-2016.pdf
+-------------------------
+URL and Title:
++-----------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+|                                     URL                                     |                                    Title                                    |
++-----------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+|                     https://s2.smu.edu/~fmoore/index.htm                    |                       Freeman Moore - SMU Spring 2020                       |
+|                   https://s2.smu.edu/~fmoore/schedule.htm                   |                    SMU CSE 5337/7337 Spring 2020 Schedule                   |
+|                https://s2.smu.edu/~fmoore/CS5337_syllabus.pdf               |                https://s2.smu.edu/~fmoore/CS5337_syllabus.pdf               |
+|                https://s2.smu.edu/~fmoore/CS7337_syllabus.pdf               |                https://s2.smu.edu/~fmoore/CS7337_syllabus.pdf               |
+|              https://s2.smu.edu/~fmoore/misc/count_letters.txt              |              https://s2.smu.edu/~fmoore/misc/count_letters.txt              |
+|    https://s2.smu.edu/~fmoore/misc/IEEE-reimagining-search-june-2016.pdf    |    https://s2.smu.edu/~fmoore/misc/IEEE-reimagining-search-june-2016.pdf    |
+| https://s2.smu.edu/~fmoore/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf | https://s2.smu.edu/~fmoore/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf |
+|             https://s2.smu.edu/~fmoore/misc/mercator-article.pdf            |             https://s2.smu.edu/~fmoore/misc/mercator-article.pdf            |
+|              https://s2.smu.edu/~fmoore/misc/eg-figure6-12.xlsx             |              https://s2.smu.edu/~fmoore/misc/eg-figure6-12.xlsx             |
+|              https://s2.smu.edu/~fmoore/misc/eg-brown-cow.xlsx              |              https://s2.smu.edu/~fmoore/misc/eg-brown-cow.xlsx              |
+|                https://s2.smu.edu/~fmoore/textfiles/cow1.txt                |                https://s2.smu.edu/~fmoore/textfiles/cow1.txt                |
+|                https://s2.smu.edu/~fmoore/textfiles/cow2.txt                |                https://s2.smu.edu/~fmoore/textfiles/cow2.txt                |
+|                https://s2.smu.edu/~fmoore/textfiles/cow3.txt                |                https://s2.smu.edu/~fmoore/textfiles/cow3.txt                |
+|                https://s2.smu.edu/~fmoore/textfiles/cow4.txt                |                https://s2.smu.edu/~fmoore/textfiles/cow4.txt                |
+|             https://s2.smu.edu/~fmoore/misc/eg-little-lamb.xlsx             |             https://s2.smu.edu/~fmoore/misc/eg-little-lamb.xlsx             |
+|               https://s2.smu.edu/~fmoore/textfiles/index.html               |                     SMU CSE 5/7337 Spring 2018 Textfiles                    |
+|               https://s2.smu.edu/~fmoore/misc/levenshtein.html              |                          Levenshtein Distance demo                          |
+|           https://s2.smu.edu/~fmoore/misc/letter_distribution.pptx          |           https://s2.smu.edu/~fmoore/misc/letter_distribution.pptx          |
+|           https://s2.smu.edu/~fmoore/misc/word-morphing-puzzle.pdf          |           https://s2.smu.edu/~fmoore/misc/word-morphing-puzzle.pdf          |
+|                https://s2.smu.edu/~fmoore/misc/vb_byte.c.txt                |                https://s2.smu.edu/~fmoore/misc/vb_byte.c.txt                |
+|                https://s2.smu.edu/~fmoore/textfiles/golf1.txt               |                https://s2.smu.edu/~fmoore/textfiles/golf1.txt               |
+|                https://s2.smu.edu/~fmoore/textfiles/golf2.txt               |                https://s2.smu.edu/~fmoore/textfiles/golf2.txt               |
+|                https://s2.smu.edu/~fmoore/textfiles/golf3.txt               |                https://s2.smu.edu/~fmoore/textfiles/golf3.txt               |
+|                https://s2.smu.edu/~fmoore/textfiles/golf4.txt               |                https://s2.smu.edu/~fmoore/textfiles/golf4.txt               |
+|                https://s2.smu.edu/~fmoore/textfiles/golf5.txt               |                https://s2.smu.edu/~fmoore/textfiles/golf5.txt               |
+|             https://s2.smu.edu/~fmoore/textfiles/basketball1.txt            |             https://s2.smu.edu/~fmoore/textfiles/basketball1.txt            |
+|             https://s2.smu.edu/~fmoore/textfiles/basketball2.txt            |             https://s2.smu.edu/~fmoore/textfiles/basketball2.txt            |
+|             https://s2.smu.edu/~fmoore/textfiles/basketball3.txt            |             https://s2.smu.edu/~fmoore/textfiles/basketball3.txt            |
+|             https://s2.smu.edu/~fmoore/textfiles/basketball4.txt            |             https://s2.smu.edu/~fmoore/textfiles/basketball4.txt            |
+|             https://s2.smu.edu/~fmoore/textfiles/basketball5.txt            |             https://s2.smu.edu/~fmoore/textfiles/basketball5.txt            |
+|              https://s2.smu.edu/~fmoore/textfiles/baseball1.txt             |              https://s2.smu.edu/~fmoore/textfiles/baseball1.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/baseball2.txt             |              https://s2.smu.edu/~fmoore/textfiles/baseball2.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/baseball3.txt             |              https://s2.smu.edu/~fmoore/textfiles/baseball3.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/baseball4.txt             |              https://s2.smu.edu/~fmoore/textfiles/baseball4.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/baseball5.txt             |              https://s2.smu.edu/~fmoore/textfiles/baseball5.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/football1.txt             |              https://s2.smu.edu/~fmoore/textfiles/football1.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/football2.txt             |              https://s2.smu.edu/~fmoore/textfiles/football2.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/football3.txt             |              https://s2.smu.edu/~fmoore/textfiles/football3.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/football4.txt             |              https://s2.smu.edu/~fmoore/textfiles/football4.txt             |
+|              https://s2.smu.edu/~fmoore/textfiles/football5.txt             |              https://s2.smu.edu/~fmoore/textfiles/football5.txt             |
++-----------------------------------------------------------------------------+-----------------------------------------------------------------------------+
+-------------------------
+top 20 words:
++---------+-----------+--------------------+
+|   Word  | Frequency | Document frequency |
++---------+-----------+--------------------+
+|   the   |    164    |         24         |
+|    a    |     83    |         21         |
+|   and   |     63    |         20         |
+|    to   |     56    |         22         |
+|    of   |     54    |         19         |
+|    in   |     44    |         18         |
+|   for   |     42    |         19         |
+|    is   |     38    |         19         |
+|    it   |     30    |         13         |
+|    on   |     25    |         13         |
+|   team  |     25    |         11         |
+|    he   |     23    |         11         |
+|    i    |     21    |         6          |
+|    at   |     20    |         13         |
+| footbal |     18    |         7          |
+|    hi   |     18    |         10         |
+|   not   |     18    |         9          |
+|  season |     18    |         6          |
+|    as   |     17    |         11         |
+|   with  |     17    |         9          |
++---------+-----------+--------------------+
