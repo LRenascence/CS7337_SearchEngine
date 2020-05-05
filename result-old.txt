@@ -1,86 +1,86 @@
 Domain URL: https://s2.smu.edu/~fmoore/
-Total number of words: 1314
+Total number of words: 1041
 -------------------------
 Crawled URL: 
+https://s2.smu.edu/~fmoore/textfiles/cow4.txt
+https://s2.smu.edu/~fmoore/textfiles/cow2.txt
+https://s2.smu.edu/~fmoore/textfiles/golf4.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball1.txt
+https://s2.smu.edu/~fmoore/textfiles/index.html
+https://s2.smu.edu/~fmoore/misc/vb_byte.c.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball2.txt
+https://s2.smu.edu/~fmoore/textfiles/football4.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball1.txt
 https://s2.smu.edu/~fmoore/schedule.htm
 https://s2.smu.edu/~fmoore/textfiles/basketball2.txt
-https://s2.smu.edu/~fmoore/textfiles/baseball1.txt
-https://s2.smu.edu/~fmoore/textfiles/golf4.txt
-https://s2.smu.edu/~fmoore/textfiles/golf1.txt
-https://s2.smu.edu/~fmoore/textfiles/baseball2.txt
-https://s2.smu.edu/~fmoore/textfiles/football2.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird2.html
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird4.html
-https://s2.smu.edu/~fmoore/index.htm
-https://s2.smu.edu/~fmoore/textfiles/basketball3.txt
-https://s2.smu.edu/~fmoore/textfiles/golf2.txt
-https://s2.smu.edu/~fmoore/textfiles/baseball4.txt
-https://s2.smu.edu/~fmoore/textfiles/golf5.txt
-https://s2.smu.edu/~fmoore/textfiles/football5.txt
+https://s2.smu.edu/~fmoore/misc/levenshtein.html
 https://s2.smu.edu/~fmoore/textfiles/baseball3.txt
-https://s2.smu.edu/~fmoore/textfiles/basketball5.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird3.html
+https://s2.smu.edu/~fmoore/textfiles/football3.txt
+https://s2.smu.edu/~fmoore/textfiles/extratextfiles/index.php
+https://s2.smu.edu/~fmoore/textfiles/basketball4.txt
+https://s2.smu.edu/~fmoore/textfiles/golf3.txt
+https://s2.smu.edu/~fmoore/textfiles/cow3.txt
 https://s2.smu.edu/~fmoore/textfiles/football1.txt
 https://s2.smu.edu/~fmoore/textfiles/baseball5.txt
-https://s2.smu.edu/~fmoore/textfiles/golf3.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird5.html
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/magictext.html
-https://s2.smu.edu/~fmoore/textfiles/index.html
-https://s2.smu.edu/~fmoore/textfiles/football3.txt
-https://s2.smu.edu/~fmoore/textfiles/cow2.txt
-https://s2.smu.edu/~fmoore/textfiles/cow1.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird1.html
-https://s2.smu.edu/~fmoore/textfiles/football4.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/index.php
-https://s2.smu.edu/~fmoore/textfiles/cow3.txt
-https://s2.smu.edu/~fmoore/misc/levenshtein.html
-https://s2.smu.edu/~fmoore/misc/vb_byte.c.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/building1.txt
-https://s2.smu.edu/~fmoore/misc/seo_email.txt
-https://s2.smu.edu/~fmoore/textfiles/basketball1.txt
-https://s2.smu.edu/~fmoore/textfiles/basketball4.txt
+https://s2.smu.edu/~fmoore/index.htm
+https://s2.smu.edu/~fmoore/textfiles/football5.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball5.txt
 https://s2.smu.edu/~fmoore/misc/count_letters.txt
-https://s2.smu.edu/~fmoore/textfiles/cow4.txt
+https://s2.smu.edu/~fmoore/textfiles/cow1.txt
+https://s2.smu.edu/~fmoore/textfiles/baseball4.txt
+https://s2.smu.edu/~fmoore/textfiles/basketball3.txt
+https://s2.smu.edu/~fmoore/textfiles/football2.txt
+https://s2.smu.edu/~fmoore/textfiles/golf5.txt
+https://s2.smu.edu/~fmoore/misc/seo_email.txt
+https://s2.smu.edu/~fmoore/textfiles/golf1.txt
+https://s2.smu.edu/~fmoore/textfiles/golf2.txt
 -------------------------
 Duplicate URL: 
 https://s2.smu.edu/~fmoore/misc/count_letters_duplicate.txt
-https://s2.smu.edu/~fmoore/textfiles/extratextfiles/building2.txt
 -------------------------
 Broken URL: 
-https://s2.smu.edu/~fmoore/does_not_exist.htm
-https://s2.smu.edu/~fmoore/mailto:fmoore@lyle.smu.edu
 https://s2.smu.edu/~fmoore/index_duplicate.htm
+https://s2.smu.edu/~fmoore/mockingbird1.html
+https://s2.smu.edu/~fmoore/mailto:fmoore@lyle.smu.edu
+https://s2.smu.edu/~fmoore/mockingbird3.html
+https://s2.smu.edu/~fmoore/mockingbird4.html
+https://s2.smu.edu/~fmoore/mockingbird5.html
+https://s2.smu.edu/~fmoore/magictext.html
+https://s2.smu.edu/~fmoore/mockingbird2.html
+https://s2.smu.edu/~fmoore/building1.txt
+https://s2.smu.edu/~fmoore/building2.txt
+https://s2.smu.edu/~fmoore/does_not_exist.htm
 -------------------------
 Out of domain URL: 
-http://lyle.smu.edu
 http://www.gedpage.com/soundex.html
+http://lyle.smu.edu
 http://www.wessa.net/rwasp_hierarchicalclustering.wasp
 -------------------------
 Invalid URL: 
-https://s2.smu.edu/~fmoore/dontgohere/poem-classification.xlsx
-https://s2.smu.edu/~fmoore/dontgohere/bayes-poem.html
-https://s2.smu.edu/~fmoore/dontgohere/bayes-hockey-football.xlsx
 https://s2.smu.edu/~fmoore/misc/noindex.html
-https://s2.smu.edu/~fmoore/dontgohere/poem-classification.pptx
 https://s2.smu.edu/~fmoore/dontgohere/badfile1.html
+https://s2.smu.edu/~fmoore/dontgohere/poem-classification.xlsx
 https://s2.smu.edu/~fmoore/dontgohere/bayes.html
+https://s2.smu.edu/~fmoore/dontgohere/poem-classification.pptx
+https://s2.smu.edu/~fmoore/dontgohere/bayes-hockey-football.xlsx
+https://s2.smu.edu/~fmoore/dontgohere/bayes-poem.html
 -------------------------
 Non text URL: 
-https://s2.smu.edu/~fmoore/CS7337_syllabus.pdf
-https://s2.smu.edu/~fmoore/misc/theasurus-coocurrence.xlsx
+https://s2.smu.edu/~fmoore/misc/eg-brown-cow.xlsx
+https://s2.smu.edu/~fmoore/misc/IEEE-reimagining-search-june-2016.pdf
+https://s2.smu.edu/~fmoore/misc/roadmap-04-07-2020.jpg
+https://s2.smu.edu/~fmoore/misc/eg-figure6-12.xlsx
 https://s2.smu.edu/~fmoore/misc/algorithm-HITS.xlsx
-https://s2.smu.edu/~fmoore/CS5337_syllabus.pdf
-https://s2.smu.edu/~fmoore/misc/article_pagerank.pdf
+https://s2.smu.edu/~fmoore/misc/letter_distribution.pptx
+https://s2.smu.edu/~fmoore/misc/article_google.pdf
 https://s2.smu.edu/~fmoore/misc/eg-little-lamb.xlsx
 https://s2.smu.edu/~fmoore/misc/mercator-article.pdf
-https://s2.smu.edu/~fmoore/misc/eg-figure6-12.xlsx
-https://s2.smu.edu/~fmoore/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf
-https://s2.smu.edu/~fmoore/misc/eg-brown-cow.xlsx
-https://s2.smu.edu/~fmoore/misc/article_google.pdf
-https://s2.smu.edu/~fmoore/misc/IEEE-reimagining-search-june-2016.pdf
-https://s2.smu.edu/~fmoore/misc/letter_distribution.pptx
+https://s2.smu.edu/~fmoore/misc/article_pagerank.pdf
 https://s2.smu.edu/~fmoore/misc/word-morphing-puzzle.pdf
-https://s2.smu.edu/~fmoore/misc/roadmap-04-07-2020.jpg
+https://s2.smu.edu/~fmoore/misc/IEEE-Spectrum-The-Dark-Dialect-Oct-2017.pdf
+https://s2.smu.edu/~fmoore/misc/theasurus-coocurrence.xlsx
+https://s2.smu.edu/~fmoore/CS5337_syllabus.pdf
+https://s2.smu.edu/~fmoore/CS7337_syllabus.pdf
 -------------------------
 URL and Title:
 +-----------------------------------------------------------------------------+---------------------------------------+
@@ -133,37 +133,30 @@ URL and Title:
 |              https://s2.smu.edu/~fmoore/textfiles/football3.txt             |                                       |
 |              https://s2.smu.edu/~fmoore/textfiles/football4.txt             |                                       |
 |              https://s2.smu.edu/~fmoore/textfiles/football5.txt             |                                       |
-|    https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird1.html    |        mockingbird novel part 1       |
-|    https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird2.html    |           mockingbird part 2          |
-|    https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird3.html    |           mockingbird part 3          |
-|    https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird4.html    |           mockingbird part 4          |
-|    https://s2.smu.edu/~fmoore/textfiles/extratextfiles/mockingbird5.html    |           mockingbird part 5          |
-|      https://s2.smu.edu/~fmoore/textfiles/extratextfiles/magictext.html     |         this is the magic file        |
-|      https://s2.smu.edu/~fmoore/textfiles/extratextfiles/building1.txt      |                                       |
 +-----------------------------------------------------------------------------+---------------------------------------+
 -------------------------
 top 20 words:
-+-------+-----------+--------------------+
-|  Word | Frequency | Document frequency |
-+-------+-----------+--------------------+
-|  the  |    222    |         31         |
-|   a   |    114    |         27         |
-|  and  |    114    |         27         |
-|   to  |     86    |         29         |
-|   of  |     85    |         25         |
-|   in  |     64    |         26         |
-|   is  |     56    |         26         |
-|  for  |     53    |         25         |
-|   on  |     34    |         18         |
-|   it  |     33    |         16         |
-|  with |     31    |         15         |
-|   he  |     30    |         13         |
-|  that |     29    |         15         |
-|   hi  |     27    |         15         |
-|  team |     25    |         11         |
-|   at  |     23    |         14         |
-|   i   |     22    |         7          |
-|  not  |     22    |         13         |
-| scout |     22    |         6          |
-|   as  |     21    |         15         |
-+-------+-----------+--------------------+
++---------+-----------+--------------------+
+|   Word  | Frequency | Document frequency |
++---------+-----------+--------------------+
+|   the   |    167    |         25         |
+|    a    |     85    |         22         |
+|   and   |     73    |         21         |
+|    to   |     58    |         24         |
+|    of   |     55    |         20         |
+|    in   |     50    |         20         |
+|   for   |     45    |         21         |
+|    is   |     39    |         20         |
+|    it   |     30    |         13         |
+|    on   |     26    |         14         |
+|   team  |     25    |         11         |
+|    he   |     23    |         11         |
+|    i    |     22    |         7          |
+|    at   |     20    |         13         |
+|   with  |     20    |         10         |
+|    hi   |     19    |         11         |
+|   not   |     19    |         10         |
+|    as   |     18    |         12         |
+| footbal |     18    |         7          |
+|  season |     18    |         6          |
++---------+-----------+--------------------+

@@ -65,7 +65,8 @@ class WebCrawler:
                 self.invalidURL.add(curURL)
                 continue
             # get the title, if there is no title, use the URL
-            curTitle = soup.title.string if soup.title is not None else curURL
+            curTitle = soup.title.string if soup.title is not None else ""
+            curTitle = curTitle.lower()
             # generate unique docID with hash using content text
             curDocID = hashlib.sha256(soup.text.encode("utf-8")).hexdigest()
             # check if is a duplicate page, if so, skip
@@ -74,6 +75,11 @@ class WebCrawler:
                 continue
             # store the map URL - (title, docID)
             self.URLTitle[curURL] = (curTitle, curDocID)
+
+            # new version
+            curDomain = re.split('/', curURL)
+            curDomain = curDomain[:-1]
+            curDomain = "/".join(curDomain)
             # if this is a text file, need to crawl the words and links
             if any(curURL.endswith(suffix) for suffix in ['/', 'html', 'txt', 'htm', 'php']):
                 # add this URL to self.crawledURL
@@ -105,6 +111,15 @@ class WebCrawler:
                     if newURL.startswith("http"):
                         self.outOfURL.add(newURL)
                         continue
+                    
+
+                    newURL = curDomain + "/" + newURL
+                    #print(newURL)
+                    if newURL not in self.visitedURL:
+                        # append the newURL into self.toDoURL
+                        self.toDoURL.append(newURL)
+                    """
+                    # old version
                     # if current URL is "https://s2.smu.edu/~fmoore/textfiles/index.html"
                     # we need a new domain, " https://s2.smu.edu/~fmoore/textfiles/"
                     # for these test files
@@ -117,6 +132,7 @@ class WebCrawler:
                     if newURL not in self.visitedURL:
                         # append the newURL into self.toDoURL
                         self.toDoURL.append(newURL)
+                    """
             else:
                 self.nonTextURL.add(curURL)
                 
@@ -149,15 +165,21 @@ class WebCrawler:
         for doc in self.docIDWords:
             for word in self.docIDWords[doc]:
                 self.allWords.add(word)
-        
+        self.crawledURL = list(self.crawledURL)
         self.allWords = list(self.allWords)
         self.allWords.sort()
         # build frequency matrix
         self.frequencyMatrix = [[] for i in self.allWords]
         for word in range(len(self.allWords)):
             wordFreCount = []
+            for url in self.crawledURL:
+                wordList = self.docIDWords[self.URLTitle[url][1]]
+                wordFreCount.append(wordList.count(self.allWords[word]))
+            """
+            # old version
             for wordList in self.docIDWords.values():
                 wordFreCount.append(wordList.count(self.allWords[word]))
+            """
             self.frequencyMatrix[word] = wordFreCount
 
     def printTFMatrix(self):

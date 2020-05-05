@@ -1,7 +1,7 @@
 About:
 This is the project of course CS7337 Information Retrieval and Web Search
 Part 1: Web Crawler
-Part 2: TBD
+Part 2: Query engine implementation 
 
 File includes:
 main.py and webCrawler.py are the codes.
@@ -20,12 +20,19 @@ string
 nltk.stem
 http
 prettytable
+csv
+math
+
 
 How to run:
-Just run the main.py, it will link the webCrawler automaticlly (I hope).
+Just run the main.py, it will link the webCrawler and searchEngine automaticlly (I hope).
 
 Output:
 there are two output files.
 result.txt contains all the results which are used in my report.
 tf_matrix.csv is the term-document frequency matrix which is the answer to the question 6, d part.
+
+And you can do the query search after it completes crawling.
+Enter a query it wil return the TOP K (default 5) results.
+Enter "stop" to stop the query serach.
 
